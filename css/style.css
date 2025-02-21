@@ -2,3 +2,27 @@
 * Created on: Feb 20
 * This file contains the CSS for index.html
 */
+.mdl-layout__header-row {
+  justify-content: center;
+  padding: 0;
+}
+
+.mdl-layout__content {
+  padding-left: 20pt;
+  padding-right: 20pt;
+  padding-top: 20pt;
+}
+
+.mdl-textfield__error {
+  color: rgb(52, 5, 64);
+}
+
+.page-content {
+  color: rgb(14, 11, 110);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+body {
+  background-color: rgb(151, 240, 231);
+}
