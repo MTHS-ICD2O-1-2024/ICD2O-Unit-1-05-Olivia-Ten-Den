@@ -3,8 +3,8 @@
 * This file contains the CSS for index.html
 */
 .mdl-layout__header-row {
-  justify-content: left;
-  padding: 0;
+  justify-content: center;
+  padding: 10;
 }
 
 .mdl-layout__content {
